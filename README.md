@@ -14,5 +14,5 @@ Các loại giống A, B, C ,D có các thuộc tính hạt xanh, vàng; vỏ nh
 Kiểm tra sự tương tự giữa các giống trong bảng test với các giống trên.
 
 ```bash
-python consine_similarity.py
+python cosine_similarity.py
 ```
